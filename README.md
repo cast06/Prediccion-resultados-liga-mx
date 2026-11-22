@@ -71,16 +71,12 @@ prediccion-resultados-liga-mx/
 
 ## Cómo ejecutarlo
 
-**Local**
-
 ```bash
 git clone https://github.com/cast06/prediccion-resultados-liga-mx.git
 cd prediccion-resultados-liga-mx
 pip install -r requirements.txt
 jupyter notebook notebooks/prediccion_resultados_liga_mx.ipynb
 ```
-
-**Google Colab:** abre el notebook y descomenta la celda de la sección 0 que clona el repositorio.
 
 ## Limitaciones
 
